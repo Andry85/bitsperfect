@@ -1560,7 +1560,6 @@ p.request
 .realtime img
 {
 	margin: -4px 0 0 -24px;
-	position: absolute;
 	width: 22px;
 }
 .bgc.container-fluid
@@ -2095,8 +2094,7 @@ div.get_money
 	.realtime
 	{
 		color: #666;
-		padding-top: 10px;
-		padding-bottom: 5px;
+		padding: 10px 10px 5px 10px;
 		font-size: 12px;
 	}
 	.realtime img
@@ -2271,14 +2269,12 @@ div.get_money
 	{
 		font-size: 12px!important;
 	}
-	.kurse
-	{
-		padding: 0 8px!important;
-	}
+
 	.realtime img
 	{
-		margin: -2px 0 0 -19px!important;
+		margin: 0!important;
 		width: 16px!important;
+		position: static;
 	}
 	.images_block
 	{
