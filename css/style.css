@@ -2052,6 +2052,7 @@ div.get_money
 	.form-2.col-lg-6.col-md-6.nopd {
 	    padding-left: 10px;
     	padding-right: 10px;
+    	margin-top: 0;
 	}
 
 	.kurse {
@@ -2190,6 +2191,10 @@ div.get_money
 	{
 	margin-bottom: 5px;
 	}
+	div.get_money {
+		text-align: center;
+		float: none;
+	}
 }
 @media only screen and (max-width:420px)
 {
@@ -2294,6 +2299,12 @@ div.get_money
 	{
 		padding-left: 0;
 		padding-right: 0;
+	}
+	div.get_money {
+		font-size: 15px;
+	}
+	.span_get_money {
+		font-size: 18px;
 	}
 
 
