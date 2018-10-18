@@ -94,6 +94,7 @@ select.chzn-select {
   padding: 3px 4px;
   margin: 0;
   white-space: nowrap;
+  display: none;
 }
 .chzn-container-single .chzn-search input {
   color: #242421;
