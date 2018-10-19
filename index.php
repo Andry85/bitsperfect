@@ -11,7 +11,7 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/scroll.js" defer></script>
 <script src="js/bootstrap/bootstrap.min.js"></script>
-<script src="js/chosen.js" defer></script>
+<script src="js/chosen.jquery.min.js" defer></script>
 <script src="js/main.js" defer></script>
 
 </head>

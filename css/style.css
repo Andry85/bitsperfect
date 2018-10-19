@@ -2198,6 +2198,14 @@ div.get_money
 }
 @media only screen and (max-width:420px)
 {
+	.new-form-credit input, 
+	.new-form-credit select, 
+	.new-form-email input, 
+	.new-form-moneytransfer select, 
+	.new-form-purse input {
+		font-size: 13px;
+	}
+
 	.new-form-button-2
 	{
 		margin-bottom: 0; 

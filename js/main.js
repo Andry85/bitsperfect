@@ -4,11 +4,12 @@ $(function() {
   
     
 
-     // Start choosen
-        jQuery(".chzn-select").chosen().change(function(e){
-            console.log(e);
-        });
-    // End choosen
+    
+
+    $(".chzn-select").chosen({
+	    disable_search: true,
+	    width: "100%"
+	});
 
     
 
